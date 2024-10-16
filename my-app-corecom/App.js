@@ -13,7 +13,7 @@ import MyRefreshControl from './MyRefreshControl';
 export default function App() {
   return (
     <View style={styles.container}>
-      <MyRefreshControl />
+      <MyActivityIndicator/>
     </View>
   );
 }
